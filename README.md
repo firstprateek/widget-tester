@@ -1,6 +1,6 @@
-# wepack-starter-template
+# widget-tester
 
-A minimal starter project for building frontend applications, bundled using Webpack 5.
+Simple project to test widgets (and other packages) by downloading them from NPM
 
 ## Getting started
 
