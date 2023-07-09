@@ -25,5 +25,9 @@
     "webpack-bundle-analyzer": "^4.8.0",
     "webpack-cli": "^5.1.1",
     "webpack-dev-server": "^4.15.0"
+  },
+  "dependencies": {
+    "hamburger-btn": "^1.0.1",
+    "poll-widget": "file:../../poll-widget"
   }
 }
